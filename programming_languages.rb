@@ -53,7 +53,7 @@ languages = {
     :javascript => {
       :type => "interpreted"
     }
- 
+
   }
 }
 
